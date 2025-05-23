@@ -1,5 +1,5 @@
 # Color-wander
-Generative artwork in node/browser based on a seeded random, by [Matt DesLauriers](https://github.com/mattdesl).
+Generative artwork in node/browser based on a seeded random, originally by [Matt DesLauriers](https://github.com/mattdesl); forked by [brucethegoose.eth](https://x.com/xbrucethegoose)
 
 Blog post and more details: [Generative Art with Node.js and Canvas](http://mattdesl.svbtle.com/generative-art-with-nodejs-and-canvas)
 
